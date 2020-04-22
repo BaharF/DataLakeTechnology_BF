@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: about.html
   - title: "Learn"
-    url: /learn/
+    url: learn.md
   - title: "Documeents"
     url: /documents/
   - title: "Blog"
