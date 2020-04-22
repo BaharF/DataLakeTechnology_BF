@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "About"
-    url: About.html/
+    url: About.html
   - title: "Learn"
     url: /learn.md/
   - title: "Documents"
     url: /Documents/
   - title: "Blog"
-    url: /blog/
+    url: Blog/
   - title: "Download"
-    url: /download/
+    url: Download
   - title: "Contact"
-    url: /contact/    
+    url: /_About/Contact/    
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
