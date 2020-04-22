@@ -5,13 +5,6 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -69,9 +62,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:https://twitter.com/LexisNexisRisk
+twitter:#"https://twitter.com/LexisNexisRisk
   username               :
-Linked:https://www.linkedin.com/company/lexisnexis-risk-solutions/life/33d12885-527f-48f6-ba48-2e8fa3237ce9/
+Linked:#https://www.linkedin.com/company/lexisnexis-risk-solutions/life/33d12885-527f-48f6-ba48-2e8fa3237ce9/
   username               :
   app_id                 :
   publisher              :
