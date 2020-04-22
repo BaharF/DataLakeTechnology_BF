@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Learn"
 permalink: /learn/
 author_profile: true
