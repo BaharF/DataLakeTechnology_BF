@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "HPCC Labs"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images"
   bio              : "I am an **amazing** person."
   location         : "Alpharetta, GA"
   email            : "bahareh.fardanian@lexisnexisrisk.com"
