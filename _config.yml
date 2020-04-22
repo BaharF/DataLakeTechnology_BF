@@ -62,9 +62,9 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:#"https://twitter.com/LexisNexisRisk
+twitter:
   username               :
-Linked:#https://www.linkedin.com/company/lexisnexis-risk-solutions/life/33d12885-527f-48f6-ba48-2e8fa3237ce9/
+Linked:
   username               :
   app_id                 :
   publisher              :
