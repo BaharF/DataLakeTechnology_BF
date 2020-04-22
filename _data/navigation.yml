@@ -9,7 +9,7 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "Download"
-    url: /download/ 
+    url: /download/
   - title: "Contact"
     url: /contact/    
   # - title: "About"

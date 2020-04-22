@@ -87,7 +87,7 @@ analytics:
 # Site Author
 author:
   name             : "HPCC Labs"
-  avatar           : "/images"
+  avatar           : "/images/LN_logo.png"
   bio              : "I am an **amazing** person."
   location         : "Alpharetta, GA"
   email            : "bahareh.fardanian@lexisnexisrisk.com"
@@ -276,6 +276,7 @@ defaults:
   - scope:
       path: ""
       type: pages
+      include: ["_pages"]
     values:
       layout: single
       author_profile: true
