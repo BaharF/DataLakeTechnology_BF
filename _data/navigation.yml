@@ -1,15 +1,15 @@
 # main links
 main:
   - title: "About"
-    url: /About/About.html/
+    url: /About/About.html
   - title: "Learn"
     url: /learn.md/
   - title: "Documents"
-    url: /Documents/
+    url: /Documents
   - title: "Blog"
     url: /Blog/
   - title: "Download"
-    url: Download
+    url: download
   - title: "Contact"
     url: /About/Contact/    
   # - title: "About"
