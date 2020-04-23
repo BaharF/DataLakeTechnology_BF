@@ -5,6 +5,8 @@ header:
 	image: "/images/HPCC_logo.jpg"
 		resize: "50%"
 ---
+[About](About.md)
+
 a test
 
 # H1
