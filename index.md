@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 header:
 	image: "/images/HPCC_logo.jpg"
-		resize: "50%"
+		resize: "110px"
 ---
 [About](_About/About.md)
 
