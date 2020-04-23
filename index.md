@@ -6,6 +6,7 @@ header:
 		resize: "110px"
 ---
 [About](_Pages/About.md)
+[Check Me Out!](CheckThis.md)
 
 a test
 
