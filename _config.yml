@@ -30,7 +30,7 @@ linked_username: hpcc-systems
 
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
 
