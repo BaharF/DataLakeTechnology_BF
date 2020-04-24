@@ -1,34 +1,6 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
 layout: home
-author_profile: true
 ---
-[About](_Pages/About.md)
-       [Check Me Out!](CheckThis.md)
-
-a test
-
-# H1
-## H2
-### H3
-
-Ordered List
-1. First item
-2. Second item
-3. Third item
-
-Unordered List
-- First item
-- Second item
-- Third item
-
-Code
-`code`
-
-Horizontal Rule
----
-
-Link
-[title](https://www.example.com)
-
-Image
-#![alt text](/DataLakeTechnology/images/taking-a-shower.jpg)
