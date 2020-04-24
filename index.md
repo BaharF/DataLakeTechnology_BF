@@ -1,9 +1,6 @@
 ---
 layout: home
 author_profile: true
-header:
-	image: "/images/HPCC_logo.jpg"
-		resize: "110px"
 ---
 [About](_Pages/About.md)
        [Check Me Out!](CheckThis.md)
@@ -34,4 +31,4 @@ Link
 [title](https://www.example.com)
 
 Image
-![alt text](/DataLakeTechnology/images/taking-a-shower.jpg)
+#![alt text](/DataLakeTechnology/images/taking-a-shower.jpg)
