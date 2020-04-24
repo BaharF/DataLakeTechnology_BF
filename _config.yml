@@ -30,7 +30,7 @@ linked_username: hpcc-systems
 
 
 # Build settings
-theme: jekyll-theme-slate
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
