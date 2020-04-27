@@ -26,12 +26,22 @@ baseurl: "/DataLakeTechnology" # the subpath of your site, e.g. /blog
 url: "https://baharf.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hpccsystems
 github_username:  hpccsystems-solutions-lab
-linked_username: hpcc-systems
+linkedin_username: hpcc-systems
+
+
+#Added Custome Fields
+author: HPCC System Labs
+copyright: "HPCC System Labs"
+title-logo: /images/HPCC_logo.jpg
+
+
+
 
 
 # Build settings
 # Build settings
-theme: minima
+# Removed minima theme 
+#theme: minima
 plugins:
   - jekyll-feed
 # The following items will not be processed, by default.
